@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arturo Castellanos Salinas
+title: About me
 permalink: /about
 ---
 
