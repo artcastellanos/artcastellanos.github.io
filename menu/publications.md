@@ -9,4 +9,4 @@ title: Publications
 
 # Journal publications
 
-* [Quantum communication complexity of distribution testing](https://www.rintonpress.com/journals/doi/QIC21.15-16-1.html), Aleksandrs Belovs, Arturo Castellanos, Francois Le Gall, Guillaume Malod, and Alexander A. Sherstov 
+* [Quantum communication complexity of distribution testing](https://www.rintonpress.com/journals/doi/QIC21.15-16-1.html), Aleksandrs Belovs, Arturo Castellanos, Francois Le Gall, Guillaume Malod, and Alexander A. Sherstov, *Quantum Information and Computation*
