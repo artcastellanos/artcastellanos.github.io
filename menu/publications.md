@@ -12,4 +12,4 @@ permalink: /publications
 ## Journal publications
 
 * [Quantum communication complexity of distribution testing](https://www.rintonpress.com/journals/doi/QIC21.15-16-1.html)
-* A.Belovs, A. Castellanos, F. Le Gall, G. Malod, and A. A. Sherstov, *Quantum Information and Computation*
+  A.Belovs, A. Castellanos, F. Le Gall, G. Malod, and A. A. Sherstov, *Quantum Information and Computation*
