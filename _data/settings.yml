@@ -9,6 +9,7 @@ google-ID: ''
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Publications', url: 'publications.html'}
+- {name: 'Software', url: 'software.html'}
 #- {name: 'Writing', url: 'writing.html'}
 #- {name: 'Contact', url: 'contact.html'}
 
