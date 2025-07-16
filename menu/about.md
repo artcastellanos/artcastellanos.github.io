@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About me
 permalink: /about
 image: IMG_4923.jpeg
