@@ -10,6 +10,7 @@ menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Publications', url: 'publications.html'}
 - {name: 'Conferences', url: 'conferences.html'}
+- {name: 'Experience', url: 'experience.html'}
 - {name: 'Software', url: 'software.html'}
 #- {name: 'Writing', url: 'writing.html'}
 #- {name: 'Contact', url: 'contact.html'}
