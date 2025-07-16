@@ -6,8 +6,12 @@ permalink: /publications
 
 ## Preprints
 
-* [Fast kernel half-space depth for data with non-convex supports](https://arxiv.org/pdf/2312.14136)  
+* [Data Depth as a Risk](https://arxiv.org/pdf/2507.08518)
+  A. Castellanos and P. Mozharovskyi
+* [Kernel Trace Distance: Quantum Statistical Metric between Measures through RKHS Density Operators](https://arxiv.org/pdf/2507.06055)
   A. Castellanos, P. Mozharovskyi, F. d’Alché-Buc and H. Janati
+* [Fast kernel half-space depth for data with non-convex supports](https://arxiv.org/pdf/2312.14136)  
+  A. Castellanos, A. Korba, P. Mozharovskyi, and H. Janati
 
 ## Journal publications
 
