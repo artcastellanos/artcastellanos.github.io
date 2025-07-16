@@ -5,7 +5,7 @@ permalink: /experience
 ---
 
 ## Teaching:  
-### <u>Lectures</u>:  
+    ### <u>Lectures</u>:  
 - First part of Introduction to Robust Statistics (2 lectures, 7h, 2024-2025)  
 ### <u>Exercise tutorials</u>:  
 - MDI 220 Mathematical Statistics (2022-2024)
