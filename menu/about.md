@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About me
 permalink: /about
 image: IMG_4923.HEIC
