@@ -5,7 +5,7 @@ permalink: /conferences
 ---
 
 Research visit(s):
-* one-month stay at Isaac Newton Institute for Mathematical Sciences (University of Cambridge) for the RCL programme: *Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning*
+* One-month stay at Isaac Newton Institute for Mathematical Sciences (University of Cambridge) for the RCL programme: *Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning*
 
 Talks:
 * *Kernel Trace Distance: Quantum Statistical Metric between Measures through RKHS Density Operators* One World Seminar for Mathematics of Machine Learning, jointly hosted at Isaac Newton Institute
