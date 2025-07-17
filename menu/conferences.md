@@ -8,7 +8,7 @@ Research visit(s):
 * one-month stay at Isaac Newton Institute for Mathematical Sciences (University of Cambridge) for the RCL programme: *Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning*
 
 Talks:
-* *Kernel Trace Distance: Quantum Statistical Metric between Measures through RKHS Density Operators* joint seminar for One World Seminar for Mathematics of Machine Learning, hosted at Isaac Newton Institute
+* *Kernel Trace Distance: Quantum Statistical Metric between Measures through RKHS Density Operators* One World Seminar for Mathematics of Machine Learning, jointly hosted at Isaac Newton Institute
 * *Data depth as Learning Loss* at CMSTATS 2024
 * *Fast kernel half-space depth for data with non-convex supports* at ICORS 2024
 * *Kernel-based extension of the halfspace depth* at CMSTATS 2023
