@@ -20,7 +20,7 @@ permalink: /publications
 
 ## Other
 
-* Contribution to [2024 Hi! PARIS White Book “Visions of Research”](https://www.hi-paris.fr/visions-of-research-phd-driven-breakthroughs/)
+* Contribution to [2024 Hi! PARIS White Book “Visions of Research”](https://www.hi-paris.fr/visions-of-research-phd-driven-breakthroughs/) (p.48-50)
 
 ### Reviewing services done for:
 - Computational Statistics & Data Analysis journal
