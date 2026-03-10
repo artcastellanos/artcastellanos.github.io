@@ -19,7 +19,7 @@ menu:
 social:
 - {icon: 'github',     link: 'https://www.github.com/artcastellanos'}
 #- {icon: 'twitter',    link: 'https://twitter.com/paululele'}
-- {icon: 'google-scholar',   link: 'https://scholar.google.com/citations?user=D7BvehQAAAAJ&hl=fr&oi=ao'}
+- {icon: 'mortar-board',   link: 'https://scholar.google.com/citations?user=D7BvehQAAAAJ&hl=fr&oi=ao'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/arturo-castellanos-700685111/'}
 #- {icon: 'envelope',   link: 'mailto:l.nguyen.paul@gmail.com'}
 #- {icon: 'rss-square', link: '/feed.xml'}
