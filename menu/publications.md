@@ -12,8 +12,8 @@ permalink: /publications
   A. Castellanos, A. Korba, P. Mozharovskyi, and H. Janati  
   (submitted to SIAM Journal Mathematics of Data Science)
 * [Fast kernel half-space depth for data with non-convex supports](https://arxiv.org/pdf/2312.14136)  
-  A. Castellanos, P. Mozharovskyi, F. d’Alché-Buc and H. Janati
-  (submitting to Biometrika)
+  A. Castellanos, P. Mozharovskyi, F. d’Alché-Buc and H. Janati  
+  (submitting to Biometrika journal)
 
 ## Journal publications
 
