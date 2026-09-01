@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications
 ---
+## Thesis
+My PhD manuscript can be found [here](https://theses.hal.science/tel-05657829v1)  
 
 ## Preprints
 
